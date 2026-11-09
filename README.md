@@ -179,6 +179,14 @@ PLCedi は各社のツールの置き換えではなく、各社のツールに�
 
 このリポジトリでは、PLCedi の目的・機能・これからの予定を紹介します。
 
+## 先行利用の募集・お問い合わせ
+
+PLCedi を実際の案件で試していただける会社・個人の方を募集しています。作業ごとの時間や現地での立上げ日数などを一緒に記録し、開発工数がどれだけ減るかを確かめます。
+
+ご質問・ご相談もこちらへどうぞ。
+
+- メール：[info@bizai-evo.com](mailto:info@bizai-evo.com)
+
 ## 出典
 
 1. Liu Z, Diedrich C, Suchold N. Virtual Commissioning of Automated Systems. INTECH, 2012（Visual Components のブログで引用） https://www.visualcomponents.com/blog/increasing-control-software-quality-with-virtual-commissioning/
